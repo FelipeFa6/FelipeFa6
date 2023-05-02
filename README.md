@@ -1,7 +1,6 @@
-# Visit
-## GIT server
+GIT server
 [Repos](http://felipe.openbsd.amsterdam/)
 
-## Personal Web
+Personal Web
 [web](felipefarias.xyz)
 
